@@ -24,7 +24,7 @@
         "FAKE_PREVIEW": {
             "description": "Fake Web Preview.. (*Example: Head\nBody\nLink\nmediaType[2 or 3]\nthumbnailUrl)",
             "required": false,
-            "value": "imrlbots\nwhile ( ! (succeed = try () ) );,l\nhttps://www.instagram.com/p/CXkZgRZPrBD/?utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
+            "value": "iɴrlbots\nwhile ( ! (succeed = try () ) );,l\nhttps://www.utm_medium=copy_link\n2\nhttps://i.imgur.com/40cQtSL.jpeg"
         },
         "BGM_DURATION": {
              "description": "To set bgm duration",
@@ -111,10 +111,25 @@
             "required": true,
             "value": "^[.!;]"
         },
+        "LOGO_NAME": {
+            "description": "Set the logo list name",
+            "required": true,
+            "value": "☚⃟፝༄Iᑎᖇᒪ☚⃟፝࿐"
+        },
         "ALL_LINK_BAN": {
             "description": "Link Blocking System.- this one blocks all link",
             "required": true,
             "value": "false"
+        },
+        "SONGD": {
+            "description": "Customizable song DOWNLOADING message instead of 'Dowloading your song'",
+            "required": true,
+            "value": "✮⃝🎸IᑎᖇᒪᗷOT ÐØ₩₦ŁØÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧"
+        },
+        "SONGU": {
+            "description": "Customizable song UPLOADING message instead of 'Uploading your song'",
+            "required": true,
+            "value": "✮⃝🎸IᑎᖇᒪᗷOT UPŁØλÐł₦G ¥ØUƦ $Ø₦G✮⃝🎧"
         },
         "NO_LOG": {
             "description": "Hata logu görmek istemiyorsanız true yapın. Set true if you don't want to see error log.",
@@ -198,9 +213,9 @@
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! use #pp if you want to add profile picture also add #qt if you want to add qoutes in your welcome message #time for show live time. #dat3 for date. #sysd for sytem properties. If you wnat buttons in alive msg type #button/pp or #button/url... pp=dp of comand user... url=the url u give in ALIVE_URL...",
+            "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "*Bot is Alive...\n\nTIME: #time \nDATE: #date \n\n#sysd \n#button/pp"
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗\n║╔╗║║║─╚║║╝║╚╦╝║║╦╝\n║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗\n╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n╭──────────────────\n│〄 ʜᴇʏ ᴜѕᴇʀ ___________ 〄 \n│〄 ʙᴏᴛ ɴᴀᴍᴇ : ɪɴʀʟʙᴏᴛ \n│〄 ᴅᴇᴠᴇʟᴏᴘᴇʀ : ₢ɪɴʀʟʙᴏᴛ\n│〄 ᴠᴇʀѕɪᴏɴ       : 𝟹.𝟶.𝟶\n│〄 ʟᴀɴɢᴜᴀɢᴇ   : ᴇɴɢʟɪѕʜ \n│〄 ᴡᴏʀᴋ ᴛʏᴘᴇ  : ᴘᴜʙʟɪᴄ\n│〄 ᴀɪ ʙᴏᴛ          : @ᴡʜᴛsᴀᴘᴘ\n│          \n│  \n│     \n│    \n│      ᴄʀᴇᴀᴛᴇᴅ  ʙʏ  ғᴀsᴡᴇᴇʜ\n╰───────────────────\n╭───────────────────\n│Hey 💬 help message type \n│.menu .help .list 💬\n│👾──────👾──────👾\n╰───────────────────"
         },
         "ALIVE_URL": {
             "description": "Customizable Alive Image!",
